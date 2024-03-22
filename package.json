@@ -1,0 +1,22 @@
+{
+  "name": "latest-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with typescript and node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mansoor Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "inquirer": "^9.2.16",
+    "latest-calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
